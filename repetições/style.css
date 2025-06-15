@@ -1,0 +1,48 @@
+
+
+body {
+    background-color: #655377;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+header {
+    margin-top: 70px;
+}
+
+section {
+    background-color: floralwhite;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 7px 7px rgb(0, 0, 0, 0.192);
+    margin-left: 100px;
+}
+
+section#sec2 {
+    margin-left: 1050px;
+    margin-top: -288px;
+}
+
+aside {
+    margin-left: 550px;
+    margin-top: -238px;
+    background-color: floralwhite;
+    width: 300px;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0px 7px 7px rgb(0, 0, 0, 0.192);
+}
+
+input#but1, #but2, #but3, #but4 {
+    display: block;
+    background-color: #655377;
+    color: white;
+    margin-top: 12px;
+    padding: 5px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+select#flista {
+    width: 150px;
+}
